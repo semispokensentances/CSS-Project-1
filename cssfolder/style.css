@@ -1,0 +1,43 @@
+h3 {
+    color:blue;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+   border:13px red dotted solid dotted; 
+
+}
+.ohno {
+    color:maroon;
+    border:13px red dotted;
+    font-size:20px;
+}
+.special{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding:10px;
+}
+body{
+    background-color: lawngreen;
+}
+h1 {
+    text-align-last: right;
+}
+img{
+    padding: 200px;
+}
+strong{
+    font-family: fantasy;
+    color:blueviolet;
+}
+small{
+    color:cornflowerblue;
+    font-size: 9px;
+}
+.title{
+    color:goldenrod;
+}
+.failure{
+    padding:50px;
+}
